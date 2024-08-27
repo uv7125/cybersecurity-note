@@ -2,7 +2,7 @@
 
 
 ## Hacking system for me :
-1. kali linux 
+1. kali linux (for beginner)
 2. blackarch linux (1year before)
 3. garuda
 
