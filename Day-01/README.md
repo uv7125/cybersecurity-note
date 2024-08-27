@@ -4,4 +4,6 @@
 ## Hacking system for me :
 1. kali linux 
 2. blackarch linux (1year before)
-3. garuda 
+3. garuda
+
+   ## small computer is raspberry pi(https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
