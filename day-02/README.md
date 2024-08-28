@@ -8,4 +8,6 @@
 7. rmdir : to remove the directory
 8. rmdir Name-1 Name-2 : to remove two or more directory
 9. rmdir * : to remove all directory
-10. 
+10. touch,echo,nano : to create the file
+11. rm -rf (THE FILE NAME ) : to remove the file
+12. cp -r (FILE NAME) (THE PATH OF DORECTORY) : to copy the file one directory to other 
