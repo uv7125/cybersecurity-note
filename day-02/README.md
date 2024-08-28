@@ -11,4 +11,5 @@
 10. rmdir * : to remove all directory
 11. touch,echo,nano : to create the file
 12. rm -rf (THE FILE NAME ) : to remove the file
-13. cp -r (FILE NAME) (THE PATH OF DORECTORY) : to copy the file one directory to other 
+13. cp -r (FILE NAME) (THE PATH OF DORECTORY) : to copy the file one directory to other
+14. mv (FILE NAME) (THE PATH OF DORECTORY) : to move the file one dorictory to other
